@@ -1,0 +1,12 @@
+{
+  "name": "LinguistAI - Advanced EdTech Platform",
+  "description": "Adaptive English learning platform for all ages with AI-powered personalized paths and conversation simulators.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-powered learning",
+    "Multi-profile architecture",
+    "CEFR structured path"
+  ]
+}
