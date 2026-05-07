@@ -1,6 +1,6 @@
 {
-  "name": "LinguistAI - Advanced EdTech Platform",
-  "description": "Adaptive English learning platform for all ages with AI-powered personalized paths and conversation simulators.",
+  "name": "IDINGLES - Learning English Made Easy",
+  "description": "APRENDE TU IDIOMA PREFERIDO DE FORMA MÁS FÁCIL AQUÍ EN EL SITIO WEB DE IDINGLES. Adaptive English learning platform for all ages.",
   "requestFramePermissions": [
     "microphone"
   ],
